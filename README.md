@@ -8,4 +8,3 @@ one systematic nuisance is profiled.
 * TODO: Figure out why the systematic doesn't reproduce HiggsCombine numbers :(
 
 #### Setup
-`pip install --user matplottery`
